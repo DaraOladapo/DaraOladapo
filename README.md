@@ -1,10 +1,6 @@
 # Dara Oladapo
 
-## Developer, Trainer, Saxophonist
-
-### Hello World
-
-I am Dara Oladapo.
+Hello World, I am **Dara Oladapo**.
 <!--
 **DaraOladapo/DaraOladapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
