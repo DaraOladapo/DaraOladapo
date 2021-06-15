@@ -1,6 +1,26 @@
-# Dara Oladapo
+# Hello World
 
-Hello World, I am **Dara Oladapo**.
+I am **Dara Oladapo**.
+
+Developer Technologies MVP, Tech Trainer (MCT), Dev & Cloud Advocate, Azure Certified Azure Developer, Azure Administrator, DevOps Engineer, M365 Developer, Youtuber and Podcaster.
+
+## You will love these
+
+|Platform|Link
+|--|--|
+Website | daraoladapo.com
+Blog | blog.daraoladapo.com
+YouTube | youtube.com/daraoladapo
+Dev Podcast | anchor.fm/thisdevlife
+Personal Podcast | anchor.fm/daraoladapo
+Twitch | twitch.tv/daraoladapo
+Email | dara@daraoladapo.com
+Twitter | twitter.com/daraoladpao
+TikTok | tiktok.com/@daraoladapo
+
+
+## Fun Fact
+I'm a saxophonist
 <!--
 **DaraOladapo/DaraOladapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
