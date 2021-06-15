@@ -8,7 +8,7 @@ Developer Technologies MVP, Tech Trainer (MCT), Dev & Cloud Advocate, Azure Cert
 
 |Platform|Link
 |--|--|
-Website | daraoladapo.com
+Website | [daraoladapo.com](https://daraoladapo.com)
 Blog | blog.daraoladapo.com
 YouTube | youtube.com/daraoladapo
 Dev Podcast | anchor.fm/thisdevlife
