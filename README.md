@@ -21,6 +21,9 @@ TikTok | tiktok.com/@daraoladapo
 
 ## Fun Fact
 I'm a saxophonist
+
+## Stats
+![Dara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daraoladapo&show_icons=true)
 <!--
 **DaraOladapo/DaraOladapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
