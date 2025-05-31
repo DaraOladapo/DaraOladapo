@@ -2,7 +2,7 @@
 
 I am **Dara Oladapo**.
 
-Developer Technologies MVP, Tech Trainer (MCT), Dev & Cloud Advocate, Azure Certified Azure Developer, Azure Administrator, DevOps Engineer, M365 Developer, Youtuber and Podcaster.
+Former Developer Technologies MVP, Tech Trainer (MCT), Dev & Cloud Advocate, Azure Certified Azure Developer, Azure Administrator, DevOps Engineer, M365 Developer, Youtuber and Podcaster.
 
 ## You will love these
 
